@@ -12,13 +12,15 @@
 
 ## 🧠 Sobre mim
 
-Sou um desenvolvedor em constante evolução,tenho 15 anos e estou focado em criar interfaces modernas, responsivas e eficientes.  
+Sou um desenvolvedor em constante evolução,tenho 16 anos e estou focado em criar interfaces modernas, responsivas e eficientes.  
 Tenho interesse em tecnologia, inovação e busco sempre melhorar minhas habilidades com projetos práticos.
 
+- 🌎 Busco oportunidade de emprego, para desenvolvimento.
 - 🎯 Foco atual: estudar,aprender,evoluir
 - 📚 Aprendendo continuamente e construindo projetos
 - ⚡ Interesse em UX/UI e performance
 - 🚀 Objetivo: me tornar um desenvolvedor profissional
+
 
 ---
 
