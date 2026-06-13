@@ -36,7 +36,7 @@ Tenho interesse em tecnologia, inovação e busco sempre melhorar minhas habilid
 ## 🔥 Streak (consistência)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=HaizenNexus&theme=tokyonight&hide_border=true"/>
 </p>
 
 
