@@ -30,13 +30,10 @@
 
 <p>
   <a href="https://github.com/HaizenNexus/Mente-amiga-1.0">📂 Repositório</a> &nbsp;•&nbsp;
-  <a href="#">🌐 Ver ao vivo (Netlify)</a>  <!-- 👉 troque o # pelo link da sua Netlify -->
-</p>
 
 `HTML` · `CSS` · `JavaScript` · `Canvas 2D` · `Web Speech API` · `localStorage`
 
 ---
-
 ## 🛠️ Tecnologias & Ferramentas
 
 <p>
