@@ -19,7 +19,7 @@
 - 🎯 Tenho **16 anos** e estou focado em me tornar um desenvolvedor **full-stack**.
 - 🌱 Atualmente aprofundando **JavaScript** e boas práticas de código.
 - 💜 Criador do **Mente Amiga**, uma plataforma inclusiva para crianças e adolescentes com **TEA e TDAH**.
-- 🤝 **Aberto a oportunidades** — estágio, projetos e colaborações.
+- 🤝 **Aberto a oportunidades** estágio, projetos e colaborações.
 - ⚡ Acredito que esforço, constância e curiosidade abrem qualquer porta.
 
 ---
