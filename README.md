@@ -26,7 +26,7 @@
 
 ## 🚀 Projeto em destaque — Mente Amiga
 
-> Plataforma web inclusiva (TEA/TDAH) com jogos educativos, IA amiga (Luna), rotina visual e sistema de recompensas. Site estático, acessível e 100% feito à mão em HTML, CSS e JavaScript.
+> Plataforma web inclusiva (TEA/TDAH) com jogos educativos, IA que ensina outros idiomas (Luna), rotina visual e sistema de recompensas. Site estático e acessível.
 
 <p>
   <a href="https://github.com/HaizenNexus/Mente-amiga-1.0">📂 Repositório</a> &nbsp;•&nbsp;
