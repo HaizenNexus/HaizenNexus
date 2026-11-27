@@ -21,6 +21,7 @@
 - 💜 Criador do **Mente Amiga**, uma plataforma inclusiva para crianças e adolescentes com **TEA e TDAH**.
 - 🤝 **Aberto a oportunidades** estágio, projetos e colaborações.
 - ⚡ Acredito que esforço, constância e curiosidade abrem qualquer porta.
+- 🎮 Ganhador em 2° Lugar do DLJ (Desafio Liga Jovem) do SEBRAE na fase estadual - 2026
 
 ---
 
